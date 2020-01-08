@@ -1,1 +1,2 @@
 test line 1 added
+user2: test line2 added
